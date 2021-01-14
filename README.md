@@ -2,6 +2,7 @@ Path of Exile Weapon DPS Calculator
 ===================================
 
 Path of Exile Weapon DPS calculator is app that lets you check DPS (damage per second) values of weapons from Path of Exile game. You can check it out here: https://pdejan.github.io/poe_wdps/
+//updated: https://michal1889.github.io/dpscalc/
 
 ### Usage
 Simply copy weapon info from in game (press Ctrl + C while hovering your mouse on weapon item), paste it into text area and press calculate button. 
